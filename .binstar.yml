@@ -1,0 +1,4 @@
+package: linecache2
+script:
+  - conda build .
+build_targets: conda
